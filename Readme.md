@@ -1,4 +1,4 @@
-Offline Vault
+# Offline Vault
 
 Offline Vault is a privacy-first, deterministic password manager that allows users to generate strong, policy-driven passwords based on a master secret and service identifier — all without ever storing passwords. Designed for offline-first use, it also supports optional encrypted backups to Google Cloud or offline storage.
 
