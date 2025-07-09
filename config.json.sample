@@ -1,0 +1,30 @@
+{
+  "services": [
+    {
+      "identifier": "gmail.com",
+      "length": 16,
+      "rotation_unit": "month",
+      "require_uppercase": true,
+      "require_lowercase": true,
+      "require_digits": true,
+      "require_specials": true,
+      "only_digits": false
+    },
+    {
+      "identifier": "bankapp",
+      "length": 12,
+      "rotation_unit": "week",
+      "require_uppercase": true,
+      "require_lowercase": false,
+      "require_digits": true,
+      "require_specials": false,
+      "only_digits": false
+    },
+    {
+      "identifier": "otp-device",
+      "length": 6,
+      "rotation_unit": "minute",
+      "only_digits": true
+    }
+  ]
+}
