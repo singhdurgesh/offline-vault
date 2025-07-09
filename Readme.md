@@ -29,6 +29,15 @@ python password_manager.py
 
 **Step 7:** Passwords will be generated according to your configuration.
 
+```sh
+# Sample Output
+> python password_manager.py
+Enter your master secret: Hello world
+gmail.com: qws_CAT9ti%CfO@2
+bankapp: CP5T4Z8NWN6T
+otp-device: 244763
+```
+
 ⸻
 
 🚀 Current Status
